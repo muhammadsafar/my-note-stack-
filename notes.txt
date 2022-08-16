@@ -1,0 +1,14 @@
+push to git using ecplise
+
+
+1. menu team -> Share Project
+2. Commit all files
+3. Use or Create repo in parent folder of project
+4. login with username and password your account github,
+5. jika tidak bisa, coba reset token dari akun github, 
+
+a. masuk ke github 
+-> settings 
+-> developer settings 
+-> personal access token, create new token, gunakan token yang telah tergenerate untuk login, pada dialog push form. 
+-> gunakan username github dan token sebagai password 
