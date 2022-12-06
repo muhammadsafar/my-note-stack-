@@ -10,5 +10,5 @@ push to git using ecplise
 a. masuk ke github 
 -> settings 
 -> developer settings 
--> personal access token, create new token, gunakan token yang telah tergenerate untuk login, pada dialog push form. 
+-> personal access token, create new token, create name token, checklist repo and done. gunakan token yang telah tergenerate untuk login, pada dialog push form. 
 -> gunakan username github dan token sebagai password 
